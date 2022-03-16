@@ -1,0 +1,27 @@
+{
+  "name": "nuxtjs-routes-overview",
+  "version": "1.0.0",
+  "description": "Nuxt.js build module that generated a JSON file with a representation of the generated route structure in your Nuxt app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinfrom/nuxtjs-routes-overview.git"
+  },
+  "keywords": [
+    "nuxtjs",
+    "routes",
+    "overview",
+    "generate",
+    "build",
+    "json"
+  ],
+  "author": "Kevin From <kevinfrom@live.dk>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinfrom/nuxtjs-routes-overview/issues"
+  },
+  "homepage": "https://github.com/kevinfrom/nuxtjs-routes-overview#readme"
+}
